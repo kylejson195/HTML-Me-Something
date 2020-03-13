@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+<style>
 
 body {
     color: white;
@@ -7,3 +7,12 @@ body {
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
  }
+
+ p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  </style>
+  
