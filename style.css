@@ -1,18 +1,23 @@
-<style>
 
 body {
-    color: white;
-    background-color: #333;
-    font-size: 150%;
-    font-family: 'Satisfy', cursive;
-    margin: 5em 25%;
- }
+   padding-top: 25px;
+   padding-bottom: 25px;
+   padding-left: 25px;
+   padding-right: 25px;
+   border: 10px groove black;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: 80px;
+   background-color: rgba(25, 51, 59, 0.473);
+}
 
- p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+p.saying {
+   text-align: center;
+}
+ #name{
+   text-align: center;
+   text-transform: uppercase;
+   font-style: italic;
+
   }
-  </style>
-  
